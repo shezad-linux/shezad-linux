@@ -1,7 +1,7 @@
 <h1 align="center">Hi folks👋, I'm shezad</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpatterns.dev%2Fposts%2Freactjs%2F&psig=AOvVaw04EElHcVZceTvyuM-hgI18&ust=1670270412607000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLiKmKfg4PsCFQAAAAAdAAAAABAE"> </p>
+<p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Fdev117uday%2Feverything-you-need-in-react-js-1akj&psig=AOvVaw04EElHcVZceTvyuM-hgI18&ust=1670270412607000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLiKmKfg4PsCFQAAAAAdAAAAABAJ"/> </p>
 
 - 🔭 I’m currently working on **jobcapta**
 
